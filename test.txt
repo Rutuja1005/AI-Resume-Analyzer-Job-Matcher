@@ -1,1 +1,31 @@
-this is sample file
+this is sample file1
+
+
+non-staging   ==>local changes, not tracked by git 
+staging     ==> changes tracked by git
+remote/master ==>changes present on github repository
+
+
+1. new file or and changes done in any file this file we need to push on git.
+2. checkout on branch from parent to child 
+3. add file in staging (Red ==> green)
+4. commit changes (green ==> black)
+5. push changes (local ==> remote)
+
+
+==============Git Command==========
+1. To initiate git in your local repository  (.git folder created)
+git init
+
+2. Check status
+git status
+
+3. To add files to staging (red ==> green)
+git add .
+
+4. To commit changes
+git commit -m "Initial commit"
+
+5. To push changes to remote repository
+git push -u origin main
+
