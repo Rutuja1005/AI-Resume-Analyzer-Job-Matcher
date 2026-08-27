@@ -442,3 +442,4 @@ tests/test_parser.py::test_jd_analyzer PASSED           [100%]
 
 ## 📄 License
 MIT License © 2026 AI Resume Analyzer Platform
+================================================
