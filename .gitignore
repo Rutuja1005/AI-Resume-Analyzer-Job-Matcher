@@ -1,0 +1,104 @@
+# ==============================================================================
+# Python & Virtual Environments
+# ==============================================================================
+__pycache__/
+**/__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+.venv/
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# ==============================================================================
+# Node.js & Frontend Build Outputs
+# ==============================================================================
+node_modules/
+**/node_modules/
+frontend/dist/
+frontend/.vite/
+.eslintcache
+dist/
+
+# ==============================================================================
+# Testing & Code Coverage
+# ==============================================================================
+.pytest_cache/
+.coverage
+htmlcov/
+test-results/
+coverage/
+
+# ==============================================================================
+# Environment Variables & Secrets (Keep .env.example tracked)
+# ==============================================================================
+.env
+.env.*
+!.env.example
+backend/.env
+backend/.env.*
+!backend/.env.example
+frontend/.env.local
+frontend/.env.*.local
+
+# ==============================================================================
+# Databases, SQLite & Local Uploads
+# ==============================================================================
+*.db
+*.db-journal
+*.sqlite3
+resume_analyzer.db
+test_resume_analyzer.db
+test_*.db
+backend/uploads/*
+!backend/uploads/.gitkeep
+uploads/*
+!uploads/.gitkeep
+
+# ==============================================================================
+# Logs
+# ==============================================================================
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# ==============================================================================
+# IDEs & Code Editors
+# ==============================================================================
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+*.swp
+*.swo
+*~
+
+# ==============================================================================
+# Operating System Files
+# ==============================================================================
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db

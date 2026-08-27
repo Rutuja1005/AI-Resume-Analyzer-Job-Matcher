@@ -1,0 +1,25 @@
+Job Title: Senior Full-Stack Engineer
+Company: StripeTech Innovations
+Location: Remote / San Francisco, CA
+
+About the Role:
+We are seeking an experienced Senior Full-Stack Engineer to lead the architecture and implementation of our high-scale cloud platforms. You will design resilient backend microservices, intuitive user interfaces, and collaborate with cross-functional teams.
+
+Responsibilities:
+• Architect, build, and maintain robust REST APIs and backend services using Python, FastAPI, and PostgreSQL.
+• Develop responsive, accessible web frontend interfaces using React, TypeScript, and Tailwind CSS.
+• Optimize system latency, database indexes, and Redis caching layers for high-throughput workloads.
+• Manage containerized deployments with Docker and Kubernetes in AWS cloud infrastructure.
+• Write comprehensive automated tests using PyTest and Jest with CI/CD GitHub Actions.
+
+Requirements:
+• 4+ years of professional full-stack web development experience.
+• Strong proficiency in Python, JavaScript, TypeScript, and SQL.
+• Hands-on expertise with React, FastAPI, PostgreSQL, and Redis.
+• Production experience with Docker, CI/CD pipelines, and AWS cloud services.
+• Solid grasp of Clean Architecture, RESTful design, and SOLID principles.
+• Bachelor's Degree in Computer Science, Software Engineering, or equivalent experience.
+
+Nice to Have:
+• Experience with Next.js, GraphQL, and Terraform.
+• Familiarity with event-driven architecture and Apache Kafka.

@@ -1,0 +1,23 @@
+Job Title: Machine Learning & NLP Engineer
+Company: Cortex Intelligence
+Location: New York, NY / Hybrid
+
+About the Role:
+Cortex Intelligence is hiring a Machine Learning Engineer specializing in Natural Language Processing (NLP) and Large Language Model architectures to power our next-generation enterprise AI solutions.
+
+Responsibilities:
+• Design, train, and evaluate machine learning models for text classification, semantic search, and entity extraction.
+• Build scalable ML inference microservices using Python, FastAPI, and Docker.
+• Develop Retrieval-Augmented Generation (RAG) pipelines using LangChain, Hugging Face Transformers, and Vector Databases (Pinecone/ChromaDB).
+• Optimize data pipelines using Pandas, NumPy, and SQL.
+
+Requirements:
+• 3+ years of hands-on Machine Learning and NLP production experience.
+• Strong proficiency in Python, Scikit-learn, PyTorch or TensorFlow.
+• Deep understanding of Transformers, embeddings, TF-IDF, Cosine Similarity, and NLTK/spaCy.
+• Experience building REST APIs with FastAPI and containerizing with Docker.
+• Master's or Bachelor's Degree in Computer Science, AI, Data Science, or Mathematics.
+
+Preferred Qualifications:
+• Experience with Kubernetes, MLflow, and AWS SageMaker.
+• Contributions to open-source ML projects or published research.
